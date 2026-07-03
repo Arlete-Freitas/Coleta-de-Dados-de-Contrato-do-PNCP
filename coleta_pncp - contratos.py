@@ -4,10 +4,6 @@ Created on Wed Jul  1 14:06:47 2026
 
 @author: Arlete Freitas
 
-MBA USP/Esalq
-Trabalho de Conclusão do MBA de Data Science 
-
-Tema: Modelo preditivo de risco de aditivo contratual em obras públicas
 """
 # %% Importando as Bibliotecas
 
